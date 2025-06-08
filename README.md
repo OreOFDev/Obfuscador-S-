@@ -1,2 +1,2 @@
-# Obfuscador-S-
+# Obfuscador-S+
 obfuscador em python S+
